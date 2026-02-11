@@ -195,3 +195,5 @@ MIT License - Feel free to use this as a learning resource
 ---
 
 **Remember:** This repository contains intentional test secrets. In real projects, always use environment variables and secret management services!
+
+## Additional Info
